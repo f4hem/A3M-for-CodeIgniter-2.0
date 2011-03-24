@@ -43,7 +43,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'Wc2010';
+$db['default']['password'] = '';
 $db['default']['database'] = 'ci2demo';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
